@@ -1,6 +1,2 @@
 /node_modules
 .env
-#Ignore everything
-*
-#dont ignore this file
-!.gitignore
